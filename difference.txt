@@ -1,0 +1,2 @@
+Sans décalage de bit = 0.13 sec pour lire le script ( sur mon pc )
+Avec décalage de bit = 0.05 sec pour lire le script ( sur mon pc )
