@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 	
 	printf("\nLa moyenne est de : \n");
 	
-	// sum = sum >> 2; Si on active cette ligne, on eleve le '/ 4' dans le sum. 
+	// sum = sum >> 2; Si on active cette ligne, on eleve le '/ 4' dans la moyenne. 
 	
 	moyenne = sum / 4;
 	
